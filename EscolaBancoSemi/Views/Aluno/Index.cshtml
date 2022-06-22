@@ -1,0 +1,38 @@
+﻿@{
+    Layout = null;
+}
+@model List<Aluno>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alunos</title>
+</head>
+<body>
+    <h1>CONTROLE DE ALUNOS!</h1>
+    <hr />
+    <a href="FormularioSalvar">Novo Aluno</a>
+        <table>
+            <tr>
+                <td>ID</td>
+                <td>Nome</td>
+                <td>Email</td>
+                <td>Idade</td>
+                <td>Ações</td>
+            </tr>
+            @foreach(Aluno aluno in Model)
+            {
+            <tr>
+                <td>@aluno.Id</td>
+                <td>@aluno.Nome</td>
+                <td>@aluno.Email</td>
+                <td>@aluno.Idade</td>
+                <td>
+                    <a asp-action="FormularioEditar" asp-route-id="@aluno.Id">Editar</a>
+                    <a asp-action="Excluir" asp-route-id="@aluno.Id">Excluir</a>
+                </td>
+            </tr>
+            }
+        </table>
+</body>
+</html>
+

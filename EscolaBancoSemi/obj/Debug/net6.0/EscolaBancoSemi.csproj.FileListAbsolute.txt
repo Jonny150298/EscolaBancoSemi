@@ -1,0 +1,118 @@
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\appsettings.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.staticwebassets.runtime.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.exe
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.deps.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.runtimeconfig.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.pdb
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.csproj.AssemblyReference.cache
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.AssemblyInfoInputs.cache
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.AssemblyInfo.cs
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.csproj.CoreCompileInputs.cache
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.RazorAssemblyInfo.cache
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.RazorAssemblyInfo.cs
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\scopedcss\bundle\EscolaBancoSemi.styles.css
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\scopedcss\projectbundle\EscolaBancoSemi.bundle.scp.css
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.csproj.CopyComplete
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\refint\EscolaBancoSemi.dll
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.pdb
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.genruntimeconfig.cache
+C:\Users\Junior\source\repos\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\ref\EscolaBancoSemi.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\appsettings.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.staticwebassets.runtime.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.exe
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.deps.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.runtimeconfig.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\EscolaBancoSemi.pdb
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.csproj.AssemblyReference.cache
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.AssemblyInfoInputs.cache
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.AssemblyInfo.cs
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.csproj.CoreCompileInputs.cache
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.RazorAssemblyInfo.cache
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.RazorAssemblyInfo.cs
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\scopedcss\bundle\EscolaBancoSemi.styles.css
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\scopedcss\projectbundle\EscolaBancoSemi.bundle.scp.css
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.csproj.CopyComplete
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\refint\EscolaBancoSemi.dll
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.pdb
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\EscolaBancoSemi.genruntimeconfig.cache
+C:\Users\jonny\OneDrive\Área de Trabalho\EscolaBancoSemi\EscolaBancoSemi\obj\Debug\net6.0\ref\EscolaBancoSemi.dll
